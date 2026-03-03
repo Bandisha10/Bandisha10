@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Bandisha 👋
 
-<!--
-**Bandisha10/Bandisha10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Student (AIML & Data Science Honors)  
+💻 Web & Python Enthusiast  
+🤖 Exploring AI & Data Science  
+🎬 Animation Creator (FlipaClip)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Computer Science student passionate about AI, Data Science, and Web Development.  
+I enjoy building logical solutions with Python and expressing creativity through animation.
+
+---
+
+## 🛠 Skills
+**Languages:** Python, JavaScript, R, PHP  
+**Web:** HTML, CSS  
+**Databases:** MySQL, Oracle  
+
+---
+
+## 🎯 Goal
+Aspiring Software Engineer combining technology and creativity.
+
+---
+
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/bandisha-chaurasia-a3874b357 
+Email: chaurasiabandisha21@gmail.com
