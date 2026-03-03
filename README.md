@@ -26,5 +26,5 @@ Aspiring Software Engineer combining technology and creativity.
 ---
 
 ## 📫 Connect
-LinkedIn: https://www.linkedin.com/in/bandisha-chaurasia-a3874b357 
-Email: chaurasiabandisha21@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/bandisha-chaurasia-a3874b357 
+**Email**: chaurasiabandisha21@gmail.com
